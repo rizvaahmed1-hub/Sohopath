@@ -431,8 +431,8 @@
   <!-- Modern Aesthetic Landing Overlay Screen -->
   <div id="landing-screen">
     <div class="landing-card">
-      <div class="landing-subtitle">Welcome To</div>
-      <h1 class="landing-title">Our Memories of<br>Sohopath</h1>
+      <div class="landing-subtitle">Welcome To<br>
+      Our Memories of<br>Sohopath</div>
       <button class="aesthetic-btn" onclick="startExperience()">
         <span class="sparkle">✨</span> Tap For Memories<span class="sparkle">✨</span>
       </button>
@@ -464,7 +464,7 @@
         <!-- PAGE 2 -->
         <div class="page" id="page2" data-emojis="🌙,⭐,💜,☁️,🌌">
           <div class="img-box">
-            <img src="22.jpeg"/>
+            <img src="222.jpeg"/>
           </div>
           <div class="text-box">
             <h2>Precious moments</h2>
